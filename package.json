@@ -1,0 +1,30 @@
+{
+  "name": "robchat-server",
+  "version": "0.0.1",
+  "description": "Server side cloud component for end-to-end encrypted group chat application.",
+  "main": "server/index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/robmclarty/robchat-server.git"
+  },
+  "keywords": [
+    "websocket",
+    "e2e",
+    "secure",
+    "chat"
+  ],
+  "author": "Rob McLarty <r@robmclarty.com> (http://robmclarty.com)",
+  "private": true,
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/robmclarty/robchat-server/issues"
+  },
+  "homepage": "https://github.com/robmclarty/robchat-server#readme"
+}
