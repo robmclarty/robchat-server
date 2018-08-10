@@ -1,6 +1,6 @@
 {
   "name": "robchat-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Server side cloud component for end-to-end encrypted group chat application.",
   "main": "server/index.js",
   "directories": {
